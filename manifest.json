@@ -1,0 +1,7 @@
+{
+    "name": "Musical_Shotgun",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/smonglaren/musical-shotgun",
+    "description": "Adds a musical cue to indicate that you shouldn't point the shotgun in that direction. Fully client-side with multiplayer support.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
