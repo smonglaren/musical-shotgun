@@ -1,5 +1,5 @@
 # Musical Shotgun
-## <a href="https://youtu.be/5060sr_bdGY"> DEMONSTRATION VIDEO </a>
+<!-- this does not link to the correct video ## <a href="https://youtu.be/5060sr_bdGY"> DEMONSTRATION VIDEO </a> -->
 Modifies the shotgun (and all other weapons if desired) to play a sound cue when they're being handled improperly.
 Client side only, multiplayer compatible.
 
