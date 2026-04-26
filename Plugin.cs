@@ -80,7 +80,7 @@ public class ItemGunPatch
     [HarmonyPostfix]
     private static void StartPostfix(ItemGun __instance)
     {
-        if (Plugin.ConfigShotgunOnly.Value && __instance.name != "Item Gun Shotgun")
+        if (Plugin.ConfigShotgunOnly.Value && !__instance.name.Contains("Item Gun Shotgun"))
         {
             return;
         }
